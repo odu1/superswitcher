@@ -19,6 +19,7 @@
 /intltool-merge.in
 /intltool-update
 /intltool-update.in
+/compile
 # /data/
 /data/superswitcher.SuperSwitcher.service
 /data/Makefile.in
@@ -34,3 +35,4 @@
 /src/superswitcher
 /src/.deps
 /src/Makefile
+/src/*.o
